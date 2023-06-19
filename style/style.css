@@ -1,0 +1,22 @@
+body {
+    background-color: coral;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+    color: steelblue;
+}
+
+.partido {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+}
+
+.imagen {
+    display: grid;
+    place-content: center;
+}
