@@ -4,14 +4,14 @@ body {
 
 .titulo {
     text-align: center;
-    font-size: 50px;
+    font-size: 80px;
     font-family: monospace;
     color: steelblue;
 }
 
 .partido {
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: antiquewhite;
 }
@@ -19,4 +19,18 @@ body {
 .imagen {
     display: grid;
     place-content: center;
+}
+
+.texto {
+    text-align: center;
+    font-size: 100px;
+    color: black;
+    font-family: fantasy;
+}
+
+.cambio{ 
+    text-align: end;
+    font-size: 25px;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
 }
